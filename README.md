@@ -1,7 +1,2 @@
----
-icon: hand-wave
----
+# Test sync
 
-# README
-
-test sync

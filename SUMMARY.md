@@ -1,6 +1,12 @@
 # Table of contents
 
-* [README](README.md)
-* [Test syncasd](test-sync.md)
-* [Test sync2](test-sync2.md)
-* [Test sync](test-sync-1.md)
+## First Group
+
+* [First page](README.md)
+  * [Page 1.1](first-group/first-page/page-1.1.md)
+  * [Page 2.2](first-group/first-page/page-2.2.md)
+* [Second page](first-group/second-page.md)
+
+***
+
+* [Third page](third-page.md)
