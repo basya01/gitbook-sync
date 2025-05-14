@@ -14,3 +14,4 @@
 ## SECOND GROUP
 
 * [Page 1 in second group](second-group/page-1-in-second-group.md)
+* [Page 1](second-group/page-1.md)
