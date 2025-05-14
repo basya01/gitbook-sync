@@ -3,9 +3,9 @@
 ## First Group
 
 * [Second page](README.md)
-* [First page](<README (1).md>)
-  * [Page 2.2](first-group/first-page/page-2.2.md)
-  * [Page 1.1](first-group/first-page/page-1.1.md)
+* [First page](first-group/readme/README.md)
+  * [Page 2.2](first-group/readme/page-2.2.md)
+  * [Page 1.1](first-group/readme/page-1.1.md)
 
 ***
 
