@@ -1,11 +1,11 @@
 # Table of contents
 
-## First Group
+## First Group <a href="#first" id="first"></a>
 
 * [Second page](README.md)
-* [First page](first-group/readme-1/README.md)
-  * [Page 2.2](first-group/readme-1/page-2.2.md)
-  * [Page 1.1](first-group/readme-1/page-1.1.md)
+* [First page](first/readme-1/README.md)
+  * [Page 2.2](first/readme-1/page-2.2.md)
+  * [Page 1.1](first/readme-1/page-1.1.md)
 
 ***
 
